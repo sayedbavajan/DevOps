@@ -1,0 +1,10 @@
+### Devops Tools ###
+scm - git
+build - maven
+cicd - jenkins
+codequality - sonarqube
+artifactory - jfrog
+Docker
+kubernetes
+terraforms
+cloud - AWS
